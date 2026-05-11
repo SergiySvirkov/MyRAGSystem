@@ -1,0 +1,22 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+.env
+
+# Data and Indices (Important!)
+*.zip
+*.pdf
+*.md
+!README.md
+*.idx
+*.faiss
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
